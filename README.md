@@ -10,6 +10,8 @@
 
 [![Made By Alex Madeira](https://img.shields.io/badge/%20made%20by-Alex%20Madeira-blue)](https://www.alexmadeira.com.br/)
 
+[![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@master/badge/badge-storybook.svg)]()
+
 [APRESENTAÇÃO].
 
 ## Preview
