@@ -2,7 +2,7 @@ import React from 'react';
 
 import { storiesOf } from '@storybook/react';
 
-import Home from '~/pages/Home';
+import Home from '../../src/pages/Home';
 
 storiesOf('Pages|Home', module)
   .add('Home page', () => <Home />)
